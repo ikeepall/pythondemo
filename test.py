@@ -16,3 +16,4 @@ x=Rectangle()
 print(x.getArea())
 
 # 哈哈哈
+# 呸
